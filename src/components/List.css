@@ -1,0 +1,11 @@
+.btn-delete{
+    background-color: lightcoral;
+    color: white;
+    width: 80px;
+    height: 40px;
+}
+
+.list-value{
+    width: 250px;
+    text-align: center;
+}
